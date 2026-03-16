@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BeatSite Machine",
+  "description": "Generate unique websites by combining text descriptions with the rhythm and energy of your favorite music.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
